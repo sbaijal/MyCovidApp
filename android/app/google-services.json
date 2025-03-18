@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78192909549",
+    "project_id": "innate-marking-287007",
+    "storage_bucket": "innate-marking-287007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78192909549:android:17a2707695b936820400e4",
+        "android_client_info": {
+          "package_name": "com.example.mycovid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78192909549-5mlr1t2qf0usumcirdfs19g458p5nq26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWpapLnkSM_nT2BHmQ-Q16WII1S0-sbwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78192909549-5mlr1t2qf0usumcirdfs19g458p5nq26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
