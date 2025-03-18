@@ -1,7 +1,6 @@
 # MyCovid Doctor's App
 
-This is a Flutter based mobile application , made for a working hospital under LUSIP-LNMIIT 
-It functions to make the daily work of Hospital staff a lot easier by doing much of Hospital management work .
+This Flutter-based mobile application was developed for a functioning hospital under LUSIP-LNMIIT. It streamlines daily hospital operations by handling various hospital management tasks, making work easier for the staff.
 
 Tech used :- Flutter, API, Firebase, MySQL  
 
